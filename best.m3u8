@@ -2036,11 +2036,3 @@ https://601.shadow-ran.online/nba6.m3u8
 #EXTGRP:Roxiestreams - NFL
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams - NFL",Chicago Bears vs San Francisco 49ers
 https://601.shadow-ran.online/nfl10.m3u8
-
-#EXTGRP:Roxiestreams - Soccer
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",December 28, 2025 12:30 PM
-https://601.shadow-ran.online/liverpool.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Atalanta vs Inter Milan
-https://601.shadow-ran.online/tnt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Sporting Braga vs Benfica
-https://daffodil.shadow-ran.online/brentford.m3u8
