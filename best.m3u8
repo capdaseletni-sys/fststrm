@@ -2407,6 +2407,8 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyOipN0lKiXo0u0BKYVJkFsk/.
 https://601.shadow-ran.online/ppv.m3u8
 
 #EXTGRP:Roxiestreams - Misc
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Laliga
+https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",Ottawa Senators vs Detroit Red Wings
 https://601.shadow-ran.online/nhl2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams - Misc",St. Louis Blues vs Edmonton Oilers
@@ -2435,6 +2437,8 @@ https://601.shadow-ran.online/aston.m3u8
 https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",AtlÃ©tico Mineiro vs Tombense
 https://601.shadow-ran.online/sportv.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Auchinleck Talbot vs Celtic
+https://daffodil.shadow-ran.online/celtic.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Augsburg vs Freiburg
 https://daffodil.shadow-ran.online/one.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams - Soccer",Boca Juniors vs Olimpia
